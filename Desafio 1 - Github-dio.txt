@@ -1,0 +1,10 @@
+#Criar repositorios
+
+##Desafio -1 
+Data: 21/12/2021
+agora e a sua hora de bilhar, use todo seu conhecimento em git, git/hub para criar o seu proprio repositorio.
+com isso, em breve você tera muitos outros projetos no seu perfio no github.
+
+###obj: compartilha de uma forma publica para outras empresas poderem acessar seu portifolio de projetos e colocaborar/ acompanhar sua evoluçao profissional.
+
+

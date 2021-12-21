@@ -3,3 +3,5 @@ link para download do git:
 https://git-scm.com/downloads
 
 o git bash e um terminal extendido para utilizar o git.
+
+adionado aula de slide, do git hub par ao desafio.
